@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:17:38.039Z",
+  "generated_at": "2026-09-30T18:17:40.551Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,58 @@
       "last_pushed_at": "2025-05-09T14:57:28.020Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2025-05-10T12:21:21.301Z",
+      "last_pushed_at": "2025-05-10T12:21:21.301Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-05-10T12:23:56.770Z",
+      "last_pushed_at": "2025-05-10T12:23:56.770Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-05-10T12:24:57.721Z",
+      "last_pushed_at": "2025-05-10T12:24:57.721Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2025-05-10T13:28:37.869Z",
+      "last_pushed_at": "2025-05-10T13:28:37.869Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
