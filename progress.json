@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:17:42.932Z",
+  "generated_at": "2026-09-30T18:17:45.339Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,45 @@
       "last_pushed_at": "2025-05-13T14:44:07.979Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-05-18T18:03:11.572Z",
+      "last_pushed_at": "2025-05-18T18:03:11.572Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2025-05-18T18:28:28.529Z",
+      "last_pushed_at": "2025-05-18T18:28:28.529Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2025-05-18T18:59:03.688Z",
+      "last_pushed_at": "2025-05-18T18:59:03.688Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
