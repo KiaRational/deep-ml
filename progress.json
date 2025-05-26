@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:17:54.312Z",
+  "generated_at": "2026-09-30T18:17:56.666Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -401,6 +401,32 @@
       "path": "problems/0025-single-neuron-with-backpropagation",
       "first_solved_at": "2025-05-25T14:55:57.755Z",
       "last_pushed_at": "2025-05-25T14:55:57.755Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2025-05-26T10:18:56.139Z",
+      "last_pushed_at": "2025-05-26T10:18:56.139Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2025-05-26T11:37:21.158Z",
+      "last_pushed_at": "2025-05-26T11:37:21.158Z",
       "language": "python",
       "lines": 30
     }
