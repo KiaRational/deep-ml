@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:18:01.019Z",
+  "generated_at": "2026-09-30T18:18:03.850Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -572,6 +572,32 @@
       "last_pushed_at": "2025-06-01T13:18:40.434Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2025-06-03T13:21:16.212Z",
+      "last_pushed_at": "2025-06-03T13:21:16.212Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2025-06-03T13:41:46.997Z",
+      "last_pushed_at": "2025-06-03T13:41:46.997Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
